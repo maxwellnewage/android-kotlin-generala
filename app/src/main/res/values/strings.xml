@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Generala App</string>
+    <string name="press_roll_dice_button">Press ROLL DICE Button!</string>
+    <string name="roll_dice">ROLL DICE</string>
 </resources>
