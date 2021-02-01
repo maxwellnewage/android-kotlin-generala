@@ -2,4 +2,6 @@
     <string name="app_name">Generala App</string>
     <string name="press_roll_dice_button">Press ROLL DICE Button!</string>
     <string name="roll_dice">ROLL DICE</string>
+    <string name="score_player">Score Player: %d</string>
+    <string name="score_pc">Score PC: %d</string>
 </resources>
